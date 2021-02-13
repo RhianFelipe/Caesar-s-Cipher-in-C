@@ -34,8 +34,6 @@ int main(void)
 {
     char phrase[100];
     char C_or_D;
-    char Ecrypted[100] = { 0 };
-    char Deciphered[100] = { 0 };
     int key = 0;
 
     printf("Type the word/phrase to Encrypt or Decrypt\n");
