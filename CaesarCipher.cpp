@@ -40,7 +40,7 @@ int main(void)
     fgets(phrase,100,stdin);
     
     
-    printf("Enter the desired Keyn size\n");
+    printf("Enter the desired Key size\n");
     scanf(" %i",&key);
     printf("Type C to Encrypt, or D to Decrypt the entered word/phrase\n");
     scanf(" %c", &C_or_D);
